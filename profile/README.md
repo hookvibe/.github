@@ -1,3 +1,11 @@
 # HookVibe
 
-HookVibe is a creator-driven organization built around the vibe-coding mindset and culture. We believe both the “hook” of inspiration and the “vibe” of momentum matter: the hook captures what truly matters—problem essence and user psychology—while the vibe keeps the building process smooth, sustainable, and creatively charged. We bring together developers, designers, and product makers to collaborate in a lightweight way, turning ideas into usable prototypes, tools, and real works—fast. Here, code isn’t just about implementing features; it’s about finding the right feel through iteration, tuning the experience, and amplifying expression. HookVibe welcomes anyone who’s willing to build: come with a spark, leave with something that runs.
+HookVibe is a creator-driven organization built around the vibe-coding mindset and culture.
+
+We believe both the “hook” of inspiration and the “vibe” of momentum matter: the hook captures what truly matters—problem essence and user psychology—while the vibe keeps the building process smooth, sustainable, and creatively charged.
+
+We bring together developers, designers, and product makers to collaborate in a lightweight way, turning ideas into usable prototypes, tools, and real works—fast.
+
+Here, code isn’t just about implementing features; it’s about finding the right feel through iteration, tuning the experience, and amplifying expression.
+
+HookVibe welcomes anyone who’s willing to build: come with a spark, leave with something that runs.
